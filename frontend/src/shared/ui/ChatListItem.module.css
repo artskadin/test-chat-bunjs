@@ -1,0 +1,32 @@
+.chat-list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px 6px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.chat-list-item:hover {
+    background: #f5f3f5;
+    transition: 0.2s background ease;
+}
+
+.chat-list-item:active {
+    background: #e5e5e5;
+}
+
+.user-name {
+    width: 70%;
+}
+
+.unread-message {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #1677ff;
+}
+
+.chat-list-item-selected {
+    background: rgba(251, 161, 6, 0.59) !important;
+}

@@ -1,0 +1,10 @@
+.layout {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 1000px;
+    height: 100%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

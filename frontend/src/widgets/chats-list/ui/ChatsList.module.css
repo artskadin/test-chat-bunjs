@@ -1,0 +1,17 @@
+.chats-list-container {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    gap: 14px;
+    width: 250px;
+    border-radius: 8px;
+    background: #fff;
+    border: 1px solid #eeeeee;
+    padding: 8px 10px;
+}
+
+.chats-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}

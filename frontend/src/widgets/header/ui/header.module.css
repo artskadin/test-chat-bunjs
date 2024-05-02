@@ -1,0 +1,30 @@
+.header {
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    background: #ffffff;
+    box-shadow: 0 1px 2px 0 #e9e9e9;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1000px;
+    margin: auto;
+    height: inherit;
+}
+
+.logo {
+    display: flex;
+    gap: 10px;
+}
+
+.logo-text:first-letter {
+    color: #fba106;
+}
+
+.login-controls {
+    display: flex;
+    gap: 6px;
+}
