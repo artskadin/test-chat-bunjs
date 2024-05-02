@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1706474180474,
+      "tag": "0000_lovely_lady_bullseye",
+      "breakpoints": true
+    }
+  ]
+}
